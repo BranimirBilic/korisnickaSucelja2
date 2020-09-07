@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{G6s4:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),r=a("Bl7J"),m=a("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(m.a,{title:"Home"}),l.a.createElement("div",{style:{maxWidth:"300px",marginBottom:"1.45rem"}},l.a.createElement("p",null,"O nama")))}}}]);
+//# sourceMappingURL=component---src-pages-o-nama-js-b5fc27ef51f718f6634d.js.map

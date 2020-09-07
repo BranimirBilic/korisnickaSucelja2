@@ -1,0 +1,20 @@
+.DivStyle{
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color:#f58233;
+}
+
+.Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Button{
+    color:"black";
+    text-align: center;
+    text-decoration: none;
+    background-color: #f58233;
+    color:white;
+}

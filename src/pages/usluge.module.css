@@ -1,0 +1,21 @@
+.SearchStyle{
+    background-color: #f58233;
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color:#f58233;
+    height: 50px;
+    padding:10px;
+    margin-bottom: 10px;
+}
+
+.InputStyle{
+    border-style: solid;
+    border-color:lightgray;
+    
+}
+
+a{
+    color: #f58233;
+}
+

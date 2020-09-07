@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>localhost:8000/produkt4/produkt4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/produkt1/produkt1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/produkt2/produkt2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/produkt3/produkt3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/produkt5/produkt5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/produkt6/produkt6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/produkt7/produkt7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/produkt8/pedodoncija/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post10/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post11/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post12/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post13/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post14/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post15/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post16/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post17/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post18/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post19/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post20/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post9/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/post1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/kontakt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/o-nama/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/page-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/pocetna/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/prijava/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/proizvodi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/registracija/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/termin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/usluge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>

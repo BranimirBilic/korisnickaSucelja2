@@ -1,0 +1,13 @@
+.Select{
+    border-style: solid;
+    border-color:#f58233;
+    border-width: 2px;
+}
+
+.Button{
+    color:"black";
+    text-align: center;
+    text-decoration: none;
+    background-color: #f58233;
+    color:white;
+}

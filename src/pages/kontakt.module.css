@@ -1,0 +1,29 @@
+.Grid{
+    display:flex;
+}
+
+.Form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.TextArea{
+    border-style: solid;
+    border-color:#f58233;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+    height: 100px;
+}
+
+.FormDiv{
+   
+}
+
+@media (max-width: 576px) {
+    .Grid {
+        flex-direction: column;
+    }
+  }
